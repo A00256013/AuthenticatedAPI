@@ -1,0 +1,5 @@
+/Users/vishwatrivedi/Desktop/MyApiSolution/obj/Debug/net7.0/MyApiSolution.csproj.AssemblyReference.cache
+/Users/vishwatrivedi/Desktop/MyApiSolution/obj/Debug/net7.0/MyApiSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishwatrivedi/Desktop/MyApiSolution/obj/Debug/net7.0/MyApiSolution.AssemblyInfoInputs.cache
+/Users/vishwatrivedi/Desktop/MyApiSolution/obj/Debug/net7.0/MyApiSolution.AssemblyInfo.cs
+/Users/vishwatrivedi/Desktop/MyApiSolution/obj/Debug/net7.0/MyApiSolution.csproj.CoreCompileInputs.cache
